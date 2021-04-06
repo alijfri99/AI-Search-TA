@@ -1,0 +1,1 @@
+left, up, up, right, right, use money, down, down, right, down, down, left, left, left, left,

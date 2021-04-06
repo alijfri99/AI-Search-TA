@@ -1,0 +1,1 @@
+up, up, up, left, down, use food, right, down, right, right, up, use food, up,
